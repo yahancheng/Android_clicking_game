@@ -4,7 +4,7 @@ An android game counts your clicks in one minitue
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone git@github.com:yahancheng/<reponame>.git
+git clone git@github.com:yahancheng/Android_clicking_game.git
 ```
 
 ## Feature
