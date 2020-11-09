@@ -4,7 +4,7 @@ An android game counts your clicks in one minitue
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
-git clone git@github.com:wolox/<reponame>.git
+git clone git@github.com:yahancheng/<reponame>.git
 ```
 
 ## Feature
@@ -22,3 +22,4 @@ When time is up, you can see your total score below.
 
 The score and clock will reset.<br/>
 You can start from beginning.
+
